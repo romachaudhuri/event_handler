@@ -3,15 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
+    "react": "^15.6.2",
     "react-bootstrap": "^0.32.1",
+    "react-dom": "^15.6.1",
+    "react-native-cardview": "^1.1.5",
     "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
     "react-scripts": "1.1.1",
     "redux": "^3.7.2",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.2.0",
-    "react-router": "^4.2.0"
+    "validation": "0.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
